@@ -70,7 +70,7 @@
 <body>
 
   <header>
-    <h1>مرحبًا بك في موقع أحمد الباقوني</h1>
+    <h1>مرحبًا بك في موقع الهكر المهنكر الخارق الكبير المستر المعلم القدير أحمد الباقوني</h1>
     <nav>
       <a href="#about">من أنا</a>
       <a href="#projects">مشاريعي</a>
@@ -79,22 +79,22 @@
   </header>
 
   <section id="about">
-    <h2>من أنا</h2>
-    <p>أنا أحمد الباقوني، مهتم بالمشاريع العقارية والتقنية وأسعى دائمًا لتطوير أدوات عملية وفعّالة.</p>
+    <h2>من أنا؟</h2>
+    <p>أنا المهندس المهنكر الخارق الحارق المتفجر أحمد الباقوني، مهتم بالمشاريع العقارية والتقنية وأسعى دائمًا لتطوير أدوات عملية وفعّالة.</p>
   </section>
 
   <section id="projects">
-    <h2>مشاريعي</h2>
+    <h2>مجد الباقوني</h2>
       <div class="card">
       <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" alt="أيقونة ملف">
-      <h3>أداة إدارة المشاريع</h3>
-      <p>ملف Excel جاهز لتوثيق ومتابعة المشاريع بكفاءة.</p>
+      <h3>الصف العاشر </h3>
+      <p>لاعب كرة سلة .</p>
     </div>
   </section>
 
   <section id="contact">
     <h2>تواصل معي</h2>
-    <p><strong>الاسم:</strong> أحمد الباقوني</p>
+    <p><strong>الاسم:</strong>المهندس أحمد الباقوني</p>
     <p><strong>رقم الهاتف:</strong> +963981877806</p>
     <p><strong>البريد الإلكتروني:</strong> backoniahmad@gmail.com</p>
     <a class="btn" href="https://wa.me/963981877806" target="_blank">تواصل عبر واتساب</a>
@@ -103,7 +103,7 @@
 
 <div>
   <p>عدد الزيارات:</p>
-  <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=page&initCount=0" title="عداد زيارات" alt="عداد زيارات" border="0" />
+  <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=page&initCount=9" title="عداد زيارات" alt="عداد زيارات" border="9" />
 </div>
 
     <!-- خريطة Google Maps -->
