@@ -85,12 +85,7 @@
 
   <section id="projects">
     <h2>مشاريعي</h2>
-    <div class="card">
-      <img src="https://cdn-icons-png.flaticon.com/512/69/69524.png" alt="أيقونة مبنى">
-      <h3>مشروع Sky1</h3>
-      <p>مشروع عقاري في حي ظهرة لبن بالرياض يجمع بين السكني والتجاري.</p>
-    </div>
-    <div class="card">
+      <div class="card">
       <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" alt="أيقونة ملف">
       <h3>أداة إدارة المشاريع</h3>
       <p>ملف Excel جاهز لتوثيق ومتابعة المشاريع بكفاءة.</p>
@@ -105,6 +100,11 @@
     <a class="btn" href="https://wa.me/963981877806" target="_blank">تواصل عبر واتساب</a>
     <a class="btn" href="mailto:backoniahmad@gmail.com">أرسل بريد إلكتروني</a>
     <button class="btn" onclick="alert('يمكنك التواصل معي عبر الرقم: +963981877806 أو البريد: backoniahmad@gmail.com')">اتصل الآن</button>
+
+<div>
+  <p>عدد الزيارات:</p>
+  <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=page&initCount=0" title="عداد زيارات" alt="عداد زيارات" border="0" />
+</div>
 
     <!-- خريطة Google Maps -->
     <iframe 
