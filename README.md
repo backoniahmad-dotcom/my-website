@@ -91,7 +91,8 @@
       <p>جميع اكواد البرمجة .</p>
     </div>
   </section>
-<img src="images/photo.jpg" alt="صورة سيارة bmw m5" width="300" height="200">
+<img src="images/photo.jpg" alt="![Uploading the-fast-and-the-furious-toyota-supra-auction-three-quarters.webp…]()
+" width="300" height="200">
   <section id="contact">
     <h2>تواصل معي</h2>
     <p><strong>الاسم:</strong>المهندس أحمد الباقوني</p>
