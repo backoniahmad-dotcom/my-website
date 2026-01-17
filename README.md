@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>موقعي الشخصي</title>
+  <title>موقع أحمد الباقوني</title>
   <style>
     body {
       font-family: 'Cairo', sans-serif;
@@ -35,6 +35,7 @@
       border-radius: 5px;
       font-size: 16px;
       cursor: pointer;
+      margin: 5px;
     }
     .card {
       background: white;
@@ -45,6 +46,11 @@
       max-width: 400px;
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     }
+    .card img {
+      width: 60px;
+      height: 60px;
+      margin-bottom: 10px;
+    }
     footer {
       background-color: #1E3A8A;
       color: white;
@@ -52,12 +58,19 @@
       padding: 15px;
       margin-top: 30px;
     }
+    iframe {
+      border:0;
+      width: 100%;
+      height: 300px;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
   </style>
 </head>
 <body>
 
   <header>
-    <h1>مرحبًا بك في عالمي الرقمي</h1>
+    <h1>مرحبًا بك في موقع أحمد الباقوني</h1>
     <nav>
       <a href="#about">من أنا</a>
       <a href="#projects">مشاريعي</a>
@@ -67,16 +80,18 @@
 
   <section id="about">
     <h2>من أنا</h2>
-    <p>أنا أحمد، مهتم بالمشاريع العقارية والتقنية وأسعى دائمًا لتطوير أدوات عملية وفعّالة.</p>
+    <p>أنا أحمد الباقوني، مهتم بالمشاريع العقارية والتقنية وأسعى دائمًا لتطوير أدوات عملية وفعّالة.</p>
   </section>
 
   <section id="projects">
     <h2>مشاريعي</h2>
     <div class="card">
+      <img src="https://cdn-icons-png.flaticon.com/512/69/69524.png" alt="أيقونة مبنى">
       <h3>مشروع Sky1</h3>
       <p>مشروع عقاري في حي ظهرة لبن بالرياض يجمع بين السكني والتجاري.</p>
     </div>
     <div class="card">
+      <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" alt="أيقونة ملف">
       <h3>أداة إدارة المشاريع</h3>
       <p>ملف Excel جاهز لتوثيق ومتابعة المشاريع بكفاءة.</p>
     </div>
@@ -84,7 +99,19 @@
 
   <section id="contact">
     <h2>تواصل معي</h2>
-    <button class="btn" onclick="alert('راسلني على البريد: info@example.com')">أرسل رسالة</button>
+    <p><strong>الاسم:</strong> أحمد الباقوني</p>
+    <p><strong>رقم الهاتف:</strong> +963981877806</p>
+    <p><strong>البريد الإلكتروني:</strong> backoniahmad@gmail.com</p>
+    <a class="btn" href="https://wa.me/963981877806" target="_blank">تواصل عبر واتساب</a>
+    <a class="btn" href="mailto:backoniahmad@gmail.com">أرسل بريد إلكتروني</a>
+    <button class="btn" onclick="alert('يمكنك التواصل معي عبر الرقم: +963981877806 أو البريد: backoniahmad@gmail.com')">اتصل الآن</button>
+
+    <!-- خريطة Google Maps -->
+    <iframe 
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10639.748!2d36.2765!3d33.5138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1518e7b5f0f0f0f%3A0x123456789abcdef!2z2KfZhNmF2YjYsdmK2Kkg2KfZhNmF2YjYsdmK2Kkg2KfZhNmF2YjYsdmK2Kkg!5e0!3m2!1sar!2s!4v1700000000000"
+      allowfullscreen=""
+      loading="lazy">
+    </iframe>
   </section>
 
   <footer>
