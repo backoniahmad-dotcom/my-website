@@ -84,14 +84,14 @@
   </section>
 
   <section id="projects">
-    <h2>مجد وجاد وكرم الباقوني</h2>
+    <h2>مشاريعي</h2>
       <div class="card">
       <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" alt="أيقونة ملف">
-      <h3>طلاب مدرسة </h3>
-      <p>لاعبين ببجي موبايل .</p>
+      <h3>التهكير </h3>
+      <p>جميع اكواد البرمجة .</p>
     </div>
   </section>
-
+<img src="images/photo.jpg" alt="صورة سيارة bmw m5" width="300" height="200">
   <section id="contact">
     <h2>تواصل معي</h2>
     <p><strong>الاسم:</strong>المهندس أحمد الباقوني</p>
