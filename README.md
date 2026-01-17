@@ -84,11 +84,11 @@
   </section>
 
   <section id="projects">
-    <h2>مجد الباقوني</h2>
+    <h2>مجد وجاد وكرم الباقوني</h2>
       <div class="card">
       <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" alt="أيقونة ملف">
-      <h3>الصف العاشر </h3>
-      <p>لاعب كرة سلة .</p>
+      <h3>طلاب مدرسة </h3>
+      <p>لاعبين ببجي موبايل .</p>
     </div>
   </section>
 
