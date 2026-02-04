@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+السلام عليكم
 <html lang="ar" dir="rtl">
 <head>
   <meta charset="UTF-8">
@@ -70,7 +70,7 @@
 <body>
 
   <header>
-    <h1>مرحبًا بك في موقع الهكر المهنكر الخارق الكبير المستر المعلم القدير أحمد الباقوني</h1>
+    <h1>مرحبًا بك في موقع الهكر أحمد الباقوني</h1>
     <nav>
       <a href="#about">من أنا</a>
       <a href="#projects">مشاريعي</a>
@@ -80,7 +80,7 @@
 
   <section id="about">
     <h2>من أنا؟</h2>
-    <p>أنا المهندس المهنكر الخارق الحارق المتفجر أحمد الباقوني، مهتم بالمشاريع العقارية والتقنية وأسعى دائمًا لتطوير أدوات عملية وفعّالة.</p>
+    <p>أنا المهندس الهكر أحمد الباقوني، مهتم بالمشاريع العقارية والتقنية وأسعى دائمًا لتطوير أدوات عملية وفعّالة.</p>
   </section>
 
   <section id="projects">
@@ -88,10 +88,10 @@
       <div class="card">
       <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" alt="أيقونة ملف">
       <h3>التهكير </h3>
-      <p>جميع اكواد البرمجة .</p>
+      <p> جميع انواع التهكير .</p>
     </div>
   </section>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=nFAHHAGs&id=D1B89D4F722429117AEB9E389DDEBB0EB9FFEF69&thid=OIP.nFAHHAGsdNTVH1Y2lZ20FAHaEf&mediaurl=https%3a%2f%2fenon-cars.com%2fwp-content%2fuploads%2f2024%2f11%2f2025-BMW-M5-Competition.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9c50071c01ac74d4d51f5636959db414%3frik%3dae%252f%252fuQ673p04ng%26pid%3dImgRaw%26r%3d0&exph=759&expw=1250&q=%d8%b5%d9%88%d8%b1%d8%a9+%d8%b3%d9%8a%d8%a7%d8%b1%d8%a9+bmw+m5&FORM=IRPRST&ck=62A4A25676DAB4135088AE3015B32DA1&selectedIndex=6&itb=0"> (alt="car bmw m5 cs")
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=nFAHHAGs&id=D1B89D4F722429117AEB9E389DDEBB0EB9FFEF69&thid=OIP.nFAHHAGsdNTVH1Y2lZ20FAHaEf&mediaurl=https%3a%2f%2fenon-cars.com%2fwp-content%2fuploads%2f2024%2f11%2f2025-BMW-M5-Competition.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9c50071c01ac74d4d51f5636959db414%3frik%3dae%252f%252fuQ673p04ng%26pid%3dImgRaw%26r%3d0&exph=759&expw=1250&q=%d8%b5%d9%88%d8%b1%d8%a9+%d8%b3%d9%8a%d8%a7%d8%b1%d8%a9+bmw+m5&FORM=IRPRST&ck=62A4A25676DAB4135088AE3015B32DA1&selectedIndex=6&itb=0">
   <section id="contact">
     <h2>تواصل معي</h2>
     <p><strong>الاسم:</strong>المهندس أحمد الباقوني</p>
