@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>موقع أحمد الباقوني</title>
+  <title>موقع الهكر السفاح</title>
   <style>
     body {
       font-family: 'Cairo', sans-serif;
@@ -69,7 +69,7 @@
 <body>
 
   <header>
-    <h1>مرحبًا بك في موقع الهكر أحمد الباقوني</h1>
+    <h1>مرحبًا بك في موقع الهكر المدمر احمد</h1>
     <nav>
       <a href="#about">من أنا</a>
       <a href="#projects">مشاريعي</a>
@@ -79,7 +79,7 @@
 
   <section id="about">
     <h2>من أنا؟</h2>
-    <p>أنا المهندس الهكر أحمد الباقوني، مهتم بالمشاريع العقارية والتقنية وأسعى دائمًا لتطوير أدوات عملية وفعّالة.</p>
+    <p>أنا المهندس أحمد ، مهتم بالمشاريع العقارية والتقنية وأسعى دائمًا لتطوير أدوات عملية وفعّالة.</p>
   </section>
 
   <section id="projects">
@@ -98,7 +98,7 @@
 
   <section id="contact">
     <h2>تواصل معي</h2>
-    <p><strong>الاسم:</strong> المهندس أحمد الباقوني</p>
+    <p><strong>الاسم:</strong> المهندس أحمد</p>
     <p><strong>رقم الهاتف:</strong> +963981877806</p>
     <p><strong>البريد الإلكتروني:</strong> backoniahmad@gmail.com</p>
 
