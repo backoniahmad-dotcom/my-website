@@ -99,8 +99,8 @@
   <section id="contact">
     <h2>تواصل معي</h2>
     <p><strong>الاسم:</strong> المهندس أحمد</p>
-    <p><strong>رقم الهاتف:</strong> +963981877806</p>
-    <p><strong>البريد الإلكتروني:</strong> backoniahmad@gmail.com</p>
+    <p><strong>رقم الهاتف:</strong>لايوجد</p>
+    <p><strong>البريد الإلكتروني:</strong> لا يوجد </p>
 
     <a class="btn" href="https://wa.me/963981877806" target="_blank">تواصل عبر واتساب</a>
     <a class="btn" href="mailto:backoniahmad@gmail.com">أرسل بريد إلكتروني</a>
