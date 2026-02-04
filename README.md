@@ -1,4 +1,3 @@
-السلام عليكم
 <html lang="ar" dir="rtl">
 <head>
   <meta charset="UTF-8">
@@ -85,30 +84,39 @@
 
   <section id="projects">
     <h2>مشاريعي</h2>
-      <div class="card">
+    <div class="card">
       <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" alt="أيقونة ملف">
-      <h3>التهكير </h3>
-      <p> جميع انواع التهكير .</p>
+      <h3>التهكير</h3>
+      <p>جميع انواع التهكير.</p>
     </div>
   </section>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=nFAHHAGs&id=D1B89D4F722429117AEB9E389DDEBB0EB9FFEF69&thid=OIP.nFAHHAGsdNTVH1Y2lZ20FAHaEf&mediaurl=https%3a%2f%2fenon-cars.com%2fwp-content%2fuploads%2f2024%2f11%2f2025-BMW-M5-Competition.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9c50071c01ac74d4d51f5636959db414%3frik%3dae%252f%252fuQ673p04ng%26pid%3dImgRaw%26r%3d0&exph=759&expw=1250&q=%d8%b5%d9%88%d8%b1%d8%a9+%d8%b3%d9%8a%d8%a7%d8%b1%d8%a9+bmw+m5&FORM=IRPRST&ck=62A4A25676DAB4135088AE3015B32DA1&selectedIndex=6&itb=0">
+
+  <!-- صورة BMW M4 -->
+  <img src="https://cdn.motor1.com/images/mgl/0ANk0/s1/2021-bmw-m4.jpg" 
+       alt="BMW M4" 
+       style="width:100%;max-width:700px;display:block;margin:auto;border-radius:10px;">
+
   <section id="contact">
     <h2>تواصل معي</h2>
-    <p><strong>الاسم:</strong>المهندس أحمد الباقوني</p>
+    <p><strong>الاسم:</strong> المهندس أحمد الباقوني</p>
     <p><strong>رقم الهاتف:</strong> +963981877806</p>
     <p><strong>البريد الإلكتروني:</strong> backoniahmad@gmail.com</p>
+
     <a class="btn" href="https://wa.me/963981877806" target="_blank">تواصل عبر واتساب</a>
     <a class="btn" href="mailto:backoniahmad@gmail.com">أرسل بريد إلكتروني</a>
     <button class="btn" onclick="alert('يمكنك التواصل معي عبر الرقم: +963981877806 أو البريد: backoniahmad@gmail.com')">اتصل الآن</button>
 
-<div>
-  <p>عدد الزيارات:</p>
-  <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=page&initCount=9" title="عداد زيارات" alt="عداد زيارات" border="9" />
-</div>
+    <!-- عداد زيارات شغال -->
+    <div style="margin-top:20px;">
+      <p>عدد الزيارات:</p>
+      <img src="https://hitwebcounter.com/counter/counter.php?page=11964050&style=0006&nbdigits=5&type=page&initCount=0" 
+           title="عداد زيارات" 
+           alt="عداد زيارات">
+    </div>
 
     <!-- خريطة Google Maps -->
     <iframe 
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10639.748!2d36.2765!3d33.5138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1518e7b5f0f0f0f%3A0x123456789abcdef!2z2KfZhNmF2YjYsdmK2Kkg2KfZhNmF2YjYsdmK2Kkg2KfZhNmF2YjYsdmK2Kkg!5e0!3m2!1sar!2s!4v1700000000000"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10639.748!2d36.2765!3d33.5138"
       allowfullscreen=""
       loading="lazy">
     </iframe>
