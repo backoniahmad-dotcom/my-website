@@ -102,10 +102,6 @@
     <p><strong>رقم الهاتف:</strong>لايوجد</p>
     <p><strong>البريد الإلكتروني:</strong> لا يوجد </p>
 
-    <a class="btn" href="https://wa.me/963981877806" target="_blank">تواصل عبر واتساب</a>
-    <a class="btn" href="mailto:backoniahmad@gmail.com">أرسل بريد إلكتروني</a>
-    <button class="btn" onclick="alert('يمكنك التواصل معي عبر الرقم: +963981877806 أو البريد: backoniahmad@gmail.com')">اتصل الآن</button>
-
     <!-- عداد زيارات شغال -->
     <div style="margin-top:20px;">
       <p>عدد الزيارات:</p>
